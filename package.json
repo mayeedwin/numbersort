@@ -1,6 +1,6 @@
 {
     "name": "numbersort",
-    "version": "0.0.9",
+    "version": "0.1.0",
     "description": "Sorting Arrays in JavaScript",
     "main": "./src/index.js",
     "scripts": {
