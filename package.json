@@ -1,5 +1,5 @@
 {
-    "name": "numbersort",
+    "name": "@mayeedwin/numbersort",
     "version": "0.1.0",
     "description": "Sorting Arrays in JavaScript",
     "main": "./src/index.js",
