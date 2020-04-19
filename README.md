@@ -1,4 +1,10 @@
 ## Sorting Arrays
+
+### Install Numbersort
+
+```bash
+npm i numbersort
+```
 ### Require the numbersort package
 
 ```js
