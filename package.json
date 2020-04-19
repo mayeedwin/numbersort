@@ -11,10 +11,13 @@
       "url": "https://github.com/mayeedwin/numbersort.git"
     },
     "keywords": [
-      "sort",
-      "numbers",
-      "es6",
-      "sort",
+      "numbersort",
+      "number sort in arrays",
+      "sort arrays",
+      "sorting numbers",
+      "largest number in an array",
+      "ascending",
+      "descending",
       "arrays"
     ],
     "author": "Maye Edwin",
