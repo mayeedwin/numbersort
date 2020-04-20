@@ -8,7 +8,7 @@ npm i numbersort
 ### Require the numbersort package
 
 ```js
-let array = require('numbersort');
+const array = require('numbersort');
 ```
 ### Example array
 
