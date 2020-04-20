@@ -28,13 +28,13 @@ let largest = array.largestNumber(numbers);
 let smallest = array.smallestNumber(numbers);
 ```
 
-### Sort an array of numbers in ascending manner
+### Sort an array of numbers in ascending order
 
 ```js
 let ascending = numbers.sort(array.Ascend);
 ```
 
-### Sort an array of numbers in descending manner
+### Sort an array of numbers in descending order
 
 ```js
 let descending = numbers.sort(array.Descend);
