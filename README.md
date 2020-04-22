@@ -12,6 +12,12 @@ npm i numbersort
 import numbersort from 'numbersort';
 ```
 
+### In your react app
+
+```js
+let array = numbersort;
+```
+
 ### Require the numbersort package
 
 ```js
