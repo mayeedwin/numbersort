@@ -5,6 +5,13 @@
 ```bash
 npm i numbersort
 ```
+
+### Import numbersort in your react app
+
+```js
+import numbersort from 'numbersort';
+```
+
 ### Require the numbersort package
 
 ```js
