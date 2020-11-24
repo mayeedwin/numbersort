@@ -1,4 +1,4 @@
-## Sorting Arrays
+## Sorting Arrays of numbers
 
 ### Install Numbersort
 
@@ -6,49 +6,44 @@
 npm i numbersort
 ```
 
-### Import numbersort in your react app
+### Import numbersort into your app
 
 ```js
-import numbersort from 'numbersort';
+import numbersort from "numbersort";
 ```
 
-### In your react app
+### Redeclare to array for e.g (optional)
 
 ```js
-let array = numbersort;
+const array = numbersort;
 ```
 
-### Require the numbersort package
-
-```js
-const array = require('numbersort');
-```
 ### Example array
 
 ```js
-let numbers = [1, 5, 8, 4, 10, 30];
+const numbers = [1, 5, 8, 4, 10, 30];
 ```
 
 ### Find the largest number in an array
 
 ```js
-let largest = array.largestNumber(numbers);
+const largest = array.largestNumber(numbers);
 ```
 
 ### Find the smallest number in an array
 
 ```js
-let smallest = array.smallestNumber(numbers);
+const smallest = array.smallestNumber(numbers);
 ```
 
 ### Sort an array of numbers in ascending order
 
 ```js
-let ascending = numbers.sort(array.Ascend);
+const ascending = numbers.sort(array.Ascend);
 ```
 
 ### Sort an array of numbers in descending order
 
 ```js
-let descending = numbers.sort(array.Descend);
+const descending = numbers.sort(array.Descend);
 ```
