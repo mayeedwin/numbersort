@@ -1,29 +1,29 @@
 {
-    "name": "numbersort",
-    "version": "0.1.4",
-    "description": "Sorting Arrays in JavaScript, Find Largest and Smallest Number.",
-    "main": "./src/index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mayeedwin/numbersort.git"
-    },
-    "keywords": [
-      "numbersort",
-      "number sort in arrays",
-      "sort arrays",
-      "sorting numbers",
-      "largest number in an array",
-      "ascending",
-      "descending",
-      "arrays"
-    ],
-    "author": "Maye Edwin",
-    "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mayeedwin/numbersort/issues"
-    },
-    "homepage": "https://github.com/mayeedwin/numbersort#readme"
-  }
+  "name": "numbersort",
+  "version": "0.1.5",
+  "description": "Sorting Arrays of Numbers in JavaScript, Find Largest and Smallest Number.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mayeedwin/numbersort.git"
+  },
+  "keywords": [
+    "numbersort",
+    "number sort in arrays",
+    "sort arrays",
+    "sorting numbers",
+    "largest number in an array",
+    "ascending",
+    "descending",
+    "arrays"
+  ],
+  "author": "Maye Edwin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mayeedwin/numbersort/issues"
+  },
+  "homepage": "https://github.com/mayeedwin/numbersort#readme"
+}
